@@ -1,0 +1,11 @@
+INTEGRANTES:
+-Jehan Carlos Hurtado Guerrero
+-Ignacio Rafael Mendoza Tatis
+-Alvaro Alejandro Zarabanda Gutierrez
+-Angela Maria Lopez Coronel
+-Juan Sebastián Perea Rincón
+
+Para este caso, el prototipo de la aplicacion se desarrollo para que cualquier usuario pueda crear sugerencias en el apartado de contactenos, pero el unico que puede ver este listado de todas las sugerencias es el usuario admin.
+
+REPOSITORIO DE LA ACTIVIDAD
+https://github.com/Jank1510/Proyecto-Mision-Tic-2022/tree/sprint_3

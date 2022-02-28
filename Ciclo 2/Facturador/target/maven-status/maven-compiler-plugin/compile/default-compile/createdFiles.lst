@@ -1,0 +1,11 @@
+com\mycompany\facturador\model\Usuario.class
+com\mycompany\facturador\model\asd$1.class
+com\mycompany\facturador\model\Cliente.class
+com\mycompany\facturador\controller\ProductoController.class
+com\mycompany\facturador\App.class
+com\mycompany\facturador\model\Producto.class
+com\mycompany\facturador\model\asd.class
+com\mycompany\facturador\view\ProductoForm.class
+com\mycompany\facturador\model\Factura.class
+com\mycompany\facturador\model\BaseDeDatosTemporal.class
+com\mycompany\facturador\model\DetalleFactura.class

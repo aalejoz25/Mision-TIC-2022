@@ -1,0 +1,65 @@
+{
+  "cursos": [
+    {
+      "codigo": 1001,
+      "nombre": "Calculo I",
+      "descripcion": "Calculo de una variable, diferenciales y aplicaciones"
+    },
+    {
+      "codigo": 1002,
+      "nombre": "Fundamentos de programacion",
+      "descripcion": "Es una asignatura basica para crear programas"
+    },
+    {
+      "codigo": 1003,
+      "nombre": "Logica Matematica",
+      "descripcion": "Logica matematica, operadores loicos y tablas de verdad"
+    },
+    {
+      "codigo": 1004,
+      "nombre": "Programacion avanzada",
+      "descripcion": "Sockets, servlets y manejo de frameworks"
+    },
+    {
+      "codigo": 1005,
+      "nombre": "Redes de comunicaciones I",
+      "descripcion": "Modelo OSI"
+    },
+    {
+      "codigo": 1006,
+      "nombre": "Redes de comunicaciones II",
+      "descripcion": "Teoria de las comunicaciones y protocolos de enrutamiento"
+    },
+    {
+      "codigo": 1007,
+      "nombre": "Redes de comunicaciones III",
+      "descripcion": "Ciberseguridad"
+    },
+    {
+      "codigo": 1008,
+      "nombre": "Calculo II",
+      "descripcion": "Integracion y aplicaciones"
+    },
+    {
+      "codigo": 1009,
+      "nombre": "Calculo multivariado",
+      "descripcion": "Calculo de varias variables y sus aplicaciones"
+    },
+    {
+      "codigo": 1010,
+      "nombre": "Variable compleja",
+      "descripcion": "Calculo de variable compleja y sus aplicaciones en ingenieria"
+    },
+    {
+      "codigo": 1011,
+      "nombre": "Ciencias de la computacion I",
+      "descripcion": "Estructuras de datos y algoritmos"
+    },
+
+    {
+      "codigo": 1012,
+      "nombre": "Ciencias de la computacion II",
+      "descripcion": "Teoria y aplicacion de los grafos"
+    }
+  ]
+}
