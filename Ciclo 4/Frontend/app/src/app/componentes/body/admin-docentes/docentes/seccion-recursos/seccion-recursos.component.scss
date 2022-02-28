@@ -1,0 +1,24 @@
+#principal{
+    text-align: center;
+}
+#btn{
+
+    z-index: 1;
+    position: relative;
+}
+
+//mostly fluid
+//phone
+@media (min-width: 0px) {
+    #principal{
+        margin-top: 30%;
+        margin-bottom: 132%;
+    }
+}
+//desktop
+@media (min-width: 796px) {
+    #principal{
+        margin-top: 13%;
+        margin-bottom: 28%;
+    }
+}

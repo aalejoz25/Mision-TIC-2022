@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+}
+#btn{
+    z-index: 1;
+    position: relative;
+}
+//mostly fluid
+//phone
+@media (min-width: 0px) {
+    .container{
+    margin-top:2%;
+    margin-bottom: 130%;
+    }
+}
+//desktop
+@media (min-width: 796px) {
+    .container{        
+    margin-top:2%;
+    margin-bottom: 28%;
+    }
+}

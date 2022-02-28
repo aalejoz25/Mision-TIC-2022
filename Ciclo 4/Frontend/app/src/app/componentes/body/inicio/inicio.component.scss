@@ -1,0 +1,42 @@
+
+/* DISEÑO DE LAS NOTICIAS*/
+#btn1{
+    margin-left: 18%;
+}
+#btn2{
+    margin-right: 18%;
+}
+
+//*****************//
+
+//mostly fluid
+//phone
+@media (min-width: 0px) {
+    .container{
+        padding-top: 45%;
+        margin-bottom: 90%;
+        justify-content: center;
+    }
+    #img{
+        width: 90% !important;
+        border-radius: 15px;
+        border: 10px solid #808080a1;
+    }
+    #contenedorIMG{
+        padding-left: 7%;
+    }
+}
+//desktop
+@media (min-width: 796px) {
+    .container{
+        padding-top: 5%;
+    }
+    #img{
+        width: 70% !important;
+        border-radius: 15px;
+        border: 10px solid #808080a1;
+    }
+    #contenedorIMG{
+        padding-left: 23%;
+    }
+}
